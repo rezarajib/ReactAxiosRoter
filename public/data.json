@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "title": "উন্নত মানের দানা শস্য",
+    "type": "grid",
+    "items": [
+      { "img": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?auto=format&fit=crop&w=400&q=80", "label": "লাল গম (Gom)" },
+      { "img": "https://images.unsplash.com/photo-1595124253349-20f016cae9be?auto=format&fit=crop&w=400&q=80", "label": "ভুট্টা (Maize)" },
+      { "img": "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=400&q=80", "label": "সুগন্ধি চাল" },
+      { "img": "https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?auto=format&fit=crop&w=400&q=80", "label": "বার্লি (Job)" }
+    ],
+    "footerText": "সব শস্য দেখুন",
+    "link": "/grains"
+  },
+  {
+    "id": 2,
+    "title": "খাঁটি তেল বীজ (সরিষা)",
+    "type": "single",
+    "items": [
+      { "img": "https://images.unsplash.com/photo-1615485240384-58aa410313c8?auto=format&fit=crop&w=600&q=80", "label": "দেশি হলুদ সরিষা (Sorisha)" }
+    ],
+    "footerText": "অর্ডার করতে ক্লিক করুন",
+    "link": "/sorisha"
+  },
+  {
+    "id": 3,
+    "title": "পুষ্টিকর ডাল ও শস্য",
+    "type": "grid",
+    "items": [
+      { "img": "https://images.unsplash.com/photo-1515942400420-2b98fed1f515?auto=format&fit=crop&w=400&q=80", "label": "মাষকলাই (Kalai)" },
+      { "img": "https://images.unsplash.com/photo-1547831656-6592d6409869?auto=format&fit=crop&w=400&q=80", "label": "মসুর ডাল" },
+      { "img": "https://images.unsplash.com/photo-1585994192701-110057f920f2?auto=format&fit=crop&w=400&q=80", "label": "মুগ ডাল" },
+      { "img": "https://images.unsplash.com/photo-1515942661900-94b3d197c56d?auto=format&fit=crop&w=400&q=80", "label": "ছোলা বুট" }
+    ],
+    "footerText": "পাইকারি দরে কিনুন",
+    "link": "/pulses"
+  },
+  {
+    "id": 4,
+    "title": "তিল ও অন্যান্য মসলা",
+    "type": "grid",
+    "items": [
+      { "img": "https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?auto=format&fit=crop&w=400&q=80", "label": "কালো তিল (Til)" },
+      { "img": "https://images.unsplash.com/photo-1596797038530-2c395c51977c?auto=format&fit=crop&w=400&q=80", "label": "সাদা তিল" },
+      { "img": "https://images.unsplash.com/photo-1615485500704-8e990f9900f7?auto=format&fit=crop&w=400&q=80", "label": "শুকনা মরিচ" },
+      { "img": "https://images.unsplash.com/photo-1599330291070-5b65d836f332?auto=format&fit=crop&w=400&q=80", "label": "হলুদ গুঁড়া" }
+    ],
+    "footerText": "বিশুদ্ধ পণ্যের নিশ্চয়তা",
+    "link": "/spices"
+  }
+]
