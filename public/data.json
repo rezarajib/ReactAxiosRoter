@@ -4,10 +4,10 @@
     "title": "উন্নত মানের দানা শস্য",
     "type": "grid",
     "items": [
-      { "img": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?auto=format&fit=crop&w=400&q=80", "label": "লাল গম (Gom)" },
-      { "img": "https://images.unsplash.com/photo-1595124253349-20f016cae9be?auto=format&fit=crop&w=400&q=80", "label": "ভুট্টা (Maize)" },
-      { "img": "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=400&q=80", "label": "সুগন্ধি চাল" },
-      { "img": "https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?auto=format&fit=crop&w=400&q=80", "label": "বার্লি (Job)" }
+      { "img": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?w=400", "label": "লাল গম (Gom)" },
+      { "img": "https://images.unsplash.com/photo-1595124253349-20f016cae9be?w=400", "label": "ভুট্টা (Maize)" },
+      { "img": "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=400", "label": "সুগন্ধি চাল" },
+      { "img": "https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?w=400", "label": "বার্লি (Job)" }
     ],
     "footerText": "সব শস্য দেখুন",
     "link": "/grains"
@@ -17,35 +17,104 @@
     "title": "খাঁটি তেল বীজ (সরিষা)",
     "type": "single",
     "items": [
-      { "img": "https://images.unsplash.com/photo-1615485240384-58aa410313c8?auto=format&fit=crop&w=600&q=80", "label": "দেশি হলুদ সরিষা (Sorisha)" }
+      { "img": "https://images.unsplash.com/photo-1615485240384-58aa410313c8?w=600", "label": "দেশি হলুদ সরিষা (Sorisha)" }
     ],
-    "footerText": "অর্ডার করতে ক্লিক করুন",
+    "footerText": "সরাসরি মাঠ থেকে কিনুন",
     "link": "/sorisha"
   },
   {
     "id": 3,
-    "title": "পুষ্টিকর ডাল ও শস্য",
+    "title": "পুষ্টিকর ডাল ও কালাই",
     "type": "grid",
     "items": [
-      { "img": "https://images.unsplash.com/photo-1515942400420-2b98fed1f515?auto=format&fit=crop&w=400&q=80", "label": "মাষকলাই (Kalai)" },
-      { "img": "https://images.unsplash.com/photo-1547831656-6592d6409869?auto=format&fit=crop&w=400&q=80", "label": "মসুর ডাল" },
-      { "img": "https://images.unsplash.com/photo-1585994192701-110057f920f2?auto=format&fit=crop&w=400&q=80", "label": "মুগ ডাল" },
-      { "img": "https://images.unsplash.com/photo-1515942661900-94b3d197c56d?auto=format&fit=crop&w=400&q=80", "label": "ছোলা বুট" }
+      { "img": "https://images.unsplash.com/photo-1515942400420-2b98fed1f515?w=400", "label": "মাষকলাই (Kalai)" },
+      { "img": "https://images.unsplash.com/photo-1547831656-6592d6409869?w=400", "label": "মসুর ডাল" },
+      { "img": "https://images.unsplash.com/photo-1585994192701-110057f920f2?w=400", "label": "মুগ ডাল" },
+      { "img": "https://images.unsplash.com/photo-1515942661900-94b3d197c56d?w=400", "label": "ছোলা বুট" }
     ],
     "footerText": "পাইকারি দরে কিনুন",
     "link": "/pulses"
   },
   {
     "id": 4,
-    "title": "তিল ও অন্যান্য মসলা",
+    "title": "তিল ও অন্যান্য বীজ",
     "type": "grid",
     "items": [
-      { "img": "https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?auto=format&fit=crop&w=400&q=80", "label": "কালো তিল (Til)" },
-      { "img": "https://images.unsplash.com/photo-1596797038530-2c395c51977c?auto=format&fit=crop&w=400&q=80", "label": "সাদা তিল" },
-      { "img": "https://images.unsplash.com/photo-1615485500704-8e990f9900f7?auto=format&fit=crop&w=400&q=80", "label": "শুকনা মরিচ" },
-      { "img": "https://images.unsplash.com/photo-1599330291070-5b65d836f332?auto=format&fit=crop&w=400&q=80", "label": "হলুদ গুঁড়া" }
+      { "img": "https://images.unsplash.com/photo-1596797038530-2c395c51977c?w=400", "label": "সাদা তিল" },
+      { "img": "https://images.unsplash.com/photo-1608502042222-6f93447fe587?w=400", "label": "সূর্যমুখী বীজ" },
+      { "img": "https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?w=400", "label": "কালো তিল" },
+      { "img": "https://images.unsplash.com/photo-1509142853512-07669df3953c?w=400", "label": "তিসি বীজ" }
     ],
-    "footerText": "বিশুদ্ধ পণ্যের নিশ্চয়তা",
+    "footerText": "বিশুদ্ধ পণ্যের নিশ্চয়তা",
+    "link": "/seeds"
+  },
+  {
+    "id": 5,
+    "title": "খাঁটি ঘানি ভাঙ্গা তেল",
+    "type": "single",
+    "items": [
+      { "img": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=600", "label": "খাঁটি সরিষার তেল" }
+    ],
+    "footerText": "তেলের স্টক দেখুন",
+    "link": "/oil"
+  },
+  {
+    "id": 6,
+    "title": "দেশি মসলাপাতি",
+    "type": "grid",
+    "items": [
+      { "img": "https://images.unsplash.com/photo-1615485500704-8e990f9900f7?w=400", "label": "শুকনা মরিচ" },
+      { "img": "https://images.unsplash.com/photo-1599330291070-5b65d836f332?w=400", "label": "হলুদ গুঁড়া" },
+      { "img": "https://images.unsplash.com/photo-1615484477778-ca3b77940c25?w=400", "label": "ধনিয়া" },
+      { "img": "https://images.unsplash.com/photo-1532336414038-cf19250c5757?w=400", "label": "রসুন" }
+    ],
+    "footerText": "রান্নার সেরা মসলা",
     "link": "/spices"
+  },
+  {
+    "id": 7,
+    "title": "প্রাকৃতিক মধু ও ঘি",
+    "type": "grid",
+    "items": [
+      { "img": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400", "label": "সুন্দরবনের মধু" },
+      { "img": "https://images.unsplash.com/photo-1589927986089-35812388d1f4?w=400", "label": "খাঁটি গাওয়া ঘি" },
+      { "img": "https://images.unsplash.com/photo-1556881286-fc6915169721?w=400", "label": "কালিজিরা মধু" },
+      { "img": "https://images.unsplash.com/photo-1510629954389-c1e0da47d415?w=400", "label": "গুড়" }
+    ],
+    "footerText": "স্বাস্থ্যকর খাবার",
+    "link": "/organic"
+  },
+  {
+    "id": 8,
+    "title": "পাহাড়ি চিনা বাদাম",
+    "type": "single",
+    "items": [
+      { "img": "https://images.unsplash.com/photo-1536620239037-2111c3a962a2?w=600", "label": "চিনা বাদাম" }
+    ],
+    "footerText": "সব ধরণের বাদাম",
+    "link": "/nuts"
+  },
+  {
+    "id": 9,
+    "title": "মাঠের তাজা সবজি",
+    "type": "grid",
+    "items": [
+      { "img": "https://images.unsplash.com/photo-1518977676601-b53f02bad67b?w=400", "label": "আলু" },
+      { "img": "https://images.unsplash.com/photo-1508313880080-c4bef0730395?w=400", "label": "পেঁয়াজ" },
+      { "img": "https://images.unsplash.com/photo-1592924357228-91a4daadcfea?w=400", "label": "টমেটো" },
+      { "img": "https://images.unsplash.com/photo-1615485240905-9e665d96f947?w=400", "label": "বেগুন" }
+    ],
+    "footerText": "তাজা সবজি বাজার",
+    "link": "/vegetables"
+  },
+  {
+    "id": 10,
+    "title": "গরুর ও ছাগলের খাবার",
+    "type": "single",
+    "items": [
+      { "img": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=600", "label": "খড় ও ভুষি" }
+    ],
+    "footerText": "খামারিদের জন্য",
+    "link": "/fodder"
   }
 ]
